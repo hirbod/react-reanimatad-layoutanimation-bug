@@ -1,5 +1,5 @@
 # react-native-reanimatad-layoutanimation-bug
-This repo demonstrate the REA unmount animation bug
+This repo demonstrate the REA unmount bug.
 
 Download and run in Expo GO or in a Custom Dev Client.
 
